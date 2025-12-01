@@ -3,7 +3,7 @@
 ## Hello, I'm Jessi
 
 ### ABOUT ME
-Software Engineering student and **Data Analysis & Process Optimization Intern** at **CBMM**.
+Software Engineering student and **Data Analysis & Process Optimization Intern**.
 
 I specialize in **backlog management**, **workflow optimization**, and developing **dashboards** for performance analysis. My focus is on applying technical knowledge to improve service management and operational efficiency. I have solid skills in **Power BI and ETL**, creating KPIs to support strategic decision-making.
 
@@ -11,7 +11,7 @@ Currently, I am transitioning from a background in Chemistry/Quality Control to 
 
 ### PROFESSIONAL EXPERIENCE
 
-🏭 **Data Analysis & Process Optimization Intern** - CBMM (Aug 2024 - Current)
+🏭 **Data Analysis & Process Optimization Intern** - (Aug 2024 - Current)
 * Responsible for managing the team's backlog and assigning tickets efficiently.
 * Developing strategic **dashboards in Power BI** to monitor KPIs, service quality, and SLA compliance.
 * Analyzing billing reports to identify cost optimization opportunities for software assets.
