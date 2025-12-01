@@ -40,21 +40,21 @@ Created a Power BI solution to analyze asset billing, using interactive filters 
 ### CERTIFICATIONS
 
 ☁️ **Cloud & Infrastructure**
-* **(start_span)Google Cloud Computing Foundations** - Google Cloud Skills Boost(end_span)
+* **Google Cloud Computing Foundations** - Google Cloud Skills Boost
 
 📊 **Data & Analytics**
-* **[span_22](start_span)Power BI** (Data Modeling, RLS, ETL, DAX, Power Query) - Alura[span_22](end_span)
-* **[span_23](start_span)Business Intelligence with Excel** (Pivot Tables, Macros, VBA) - Alura[span_23](end_span)
-* **[span_24](start_span)SQLite Online** - Alura[span_24](end_span)
+* **Power BI** (Data Modeling, RLS, ETL, DAX, Power Query) - Alura
+* **Business Intelligence with Excel** (Pivot Tables, Macros, VBA) - Alura
+* **SQLite Online** - Alura
 
 🤖 **Automation & RPA**
-* **[span_25](start_span)Power Automate** & **Power Apps** - Alura[span_25](end_span)
-* **[span_26](start_span)UiPath** & **RPA: No/Low Code** - Alura[span_26](end_span)
-* **[span_27](start_span)Bizagi** (Process Modeling) - Alura[span_27](end_span)
+* **Power Automate** & **Power Apps** - Alura
+* **UiPath** & **RPA: No/Low Code** - Alura
+* **Bizagi** (Process Modeling) - Alura
 
 💻 **Development**
-* **[span_28](start_span)Python** - Alura[span_28](end_span)
-* **[span_29](start_span)Logic Programming** - Alura[span_29](end_span)
+* **Python** - Alura
+* **Logic Programming** - Alura
 
 ---
 <div align="left">
