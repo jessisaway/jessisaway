@@ -40,7 +40,7 @@ Created a Power BI solution to analyze asset billing, using interactive filters 
 ### CERTIFICATIONS
 
 ☁️ **Cloud & Infrastructure**
-* **[span_21](start_span)Google Cloud Computing Foundations** - Google Cloud Skills Boost[span_21](end_span)
+* **(start_span)Google Cloud Computing Foundations** - Google Cloud Skills Boost(end_span)
 
 📊 **Data & Analytics**
 * **[span_22](start_span)Power BI** (Data Modeling, RLS, ETL, DAX, Power Query) - Alura[span_22](end_span)
