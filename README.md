@@ -1,9 +1,4 @@
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jessisaway&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessisaway&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
   <h1> Olá, seja muito bem-vindo! 👋 </h1>
 </div>
 
@@ -11,18 +6,12 @@
   <h3> Engenheira de Dados em Formação </h3>
 </div>
 
----
-
 Sou estudante de **Engenharia de Software** na **UniCesumar** e atualmente atuo como estagiária na **CBMM**, focada em **Dados e Otimização de Processos**. 
 
 Tenho um background analítico vindo da área de Química e Controle de Qualidade, o qual hoje utilizo para criar soluções tecnológicas eficientes. Buscando transição para **Engenharia de Dados** em ambientes de larga escala e cloud computing, com especialização em curso em Python e SQL.
 
 - Cursando Bacharelado em **Engenharia de Software** (Previsão 2027).
 - Desenvolvendo projetos de **ETL, Dashboards e Automação**.
-
----
-
-### Tecnologias e Habilidades
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -39,8 +28,6 @@ Tenho um background analítico vindo da área de Química e Controle de Qualidad
   <img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=servicenow&logoColor=white" />
 </div>
-
----
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jessicacristina08" target="_blank">
