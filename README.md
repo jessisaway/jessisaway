@@ -4,22 +4,21 @@
 </div>
 
 <div align="center">
-  <h1> Olá, eu sou a Jéssica! 👋 </h1>
+  <h1> Olá, seja muito bem-vindo! 👋 </h1>
 </div>
 
 <div align="center">
-  <h3> Software Engineering Student | Data Analysis & Process Optimization Intern </h3>
+  <h3> Engenheira de Dados em Formação </h3>
 </div>
 
 ---
 
-### ✨ Sobre Mim
-[cite_start]Sou estudante de **Engenharia de Software** na **UniCesumar** [cite: 1, 4] [cite_start]e atualmente atuo como estagiária na **CBMM**, focada em **Dados e Otimização de Processos**[cite: 1, 4]. 
+Sou estudante de **Engenharia de Software** na **UniCesumar** e atualmente atuo como estagiária na **CBMM**, focada em **Dados e Otimização de Processos**. 
 
-[cite_start]Tenho um background analítico vindo da área de Química e Controle de Qualidade, o qual hoje utilizo para criar soluções tecnológicas eficientes[cite: 1]. [cite_start]Buscando transição para **Engenharia de Dados** em ambientes de larga escala e cloud computing, com especialização em curso em Python e SQL[cite: 1].
+Tenho um background analítico vindo da área de Química e Controle de Qualidade, o qual hoje utilizo para criar soluções tecnológicas eficientes. Buscando transição para **Engenharia de Dados** em ambientes de larga escala e cloud computing, com especialização em curso em Python e SQL.
 
-- [cite_start]🎓 Cursando Bacharelado em **Engenharia de Software** (Previsão 2027)[cite: 1, 4].
-- [cite_start]⚙️ Desenvolvendo projetos de **ETL, Dashboards e Automação**[cite: 1].
+- Cursando Bacharelado em **Engenharia de Software** (Previsão 2027).
+- Desenvolvendo projetos de **ETL, Dashboards e Automação**.
 
 ---
 
@@ -43,8 +42,6 @@
 
 ---
 
-### 📫 Vamos nos conectar?
-
 <div align="center">
   <a href="https://www.linkedin.com/in/jessicacristina08" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -55,8 +52,6 @@
 </div>
 
 ---
-
-### Snake Contribution Map
 
 <div align="center">
   <picture>
