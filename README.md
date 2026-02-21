@@ -7,9 +7,7 @@
 </div>
 
 Sou estudante de **Engenharia de Software** na **UniCesumar** e atualmente atuo como estagiária na **CBMM**, focada em **Dados e Otimização de Processos**. 
-
 Tenho um background analítico vindo da área de Química e Controle de Qualidade, o qual hoje utilizo para criar soluções tecnológicas eficientes. Buscando transição para **Engenharia de Dados** em ambientes de larga escala e cloud computing, com especialização em curso em Python e SQL.
-
 - Cursando Bacharelado em **Engenharia de Software** (Previsão 2027).
 - Desenvolvendo projetos de **ETL, Dashboards e Automação**.
 
