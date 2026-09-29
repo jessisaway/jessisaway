@@ -6,7 +6,7 @@
   <h3> Analytics Engineer | Dados & IA </h3>
 </div>
 
-Atuo como **Analytics Engineer** no programa Lighthouse da **Indícium**, em cliente do setor financeiro, subindo dados da camada Bronze do **Databricks** para modelos **dbt** e cuidando da governança do projeto.
+Atuo como **Analytics Engineer** no programa Lighthouse da **Indicium AI**, em cliente do setor financeiro, subindo dados do **Databricks** para modelos **dbt** e cuidando da governança do projeto.
 Como projeto prático, construí um pipeline **Lakehouse** completo (Bronze/Silver/Gold), com modelagem em dbt, relatório executivo em **Power BI**, um modelo de **Machine Learning** para forecast de demanda e uma aplicação de **IA generativa (RAG)** com Databricks Vector Search e LLM.
 Anteriormente, atuei como estagiária em Análise de Dados e Otimização de Processos na **CBMM**, com background vindo da área de Química e Controle de Qualidade.
 - 🔭 Trabalhando com: **Databricks, dbt, PySpark, SQL, Power BI**
