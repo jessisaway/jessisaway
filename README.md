@@ -3,29 +3,27 @@
 </div>
 
 <div align="left">
-  <h3> Engenheira de Dados em Formação </h3>
+  <h3> Analytics Engineer | Dados & IA </h3>
 </div>
 
-Sou estudante de **Engenharia de Software** na **UniCesumar** e atualmente atuo como estagiária na **CBMM**, focada em **Dados e Otimização de Processos**. 
-Tenho um background analítico vindo da área de Química e Controle de Qualidade, o qual hoje utilizo para criar soluções tecnológicas eficientes. Buscando transição para **Engenharia de Dados** em ambientes de larga escala e cloud computing, com especialização em curso em Python e SQL.
-- Cursando Bacharelado em **Engenharia de Software** (Previsão 2027).
-- Desenvolvendo projetos de **ETL, Dashboards e Automação**.
+Atuo como **Analytics Engineer** no programa Lighthouse da **Indícium**, em cliente do setor financeiro, subindo dados da camada Bronze do **Databricks** para modelos **dbt** e cuidando da governança do projeto.
+Como projeto prático, construí um pipeline **Lakehouse** completo (Bronze/Silver/Gold), com modelagem em dbt, relatório executivo em **Power BI**, um modelo de **Machine Learning** para forecast de demanda e uma aplicação de **IA generativa (RAG)** com Databricks Vector Search e LLM.
+Anteriormente, atuei como estagiária em Análise de Dados e Otimização de Processos na **CBMM**, com background vindo da área de Química e Controle de Qualidade.
+- 🔭 Trabalhando com: **Databricks, dbt, PySpark, SQL, Power BI**
+- 🌱 Aprofundando: **RAG, LLMs, Machine Learning aplicado**
+- 🎓 Cursando Bacharelado em **Engenharia de Software** (Previsão 2027)
 
 
   <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </div>
-  
-  <div align="center">
-  <img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=servicenow&logoColor=white" />
-</div>
 
 ---
 
